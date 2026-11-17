@@ -1,0 +1,23 @@
+{
+  "updated": "2026-11-17",
+  "items": [
+    {
+      "id": "n1",
+      "tag": "IA",
+      "title": "IA economiza tempo no CS, mas isso garante crescimento?",
+      "sum": "A IA já reduz o trabalho manual das equipes de CS, mas o ganho de tempo só vira retenção e expansão quando está ligado a fluxos completos e medido por indicadores de negócio.",
+      "src": "Outreach",
+      "date": "2026-11-09",
+      "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
+    },
+    {
+      "id": "n7",
+      "tag": "Estratégia",
+      "title": "O novo formato do Customer Success moderno",
+      "sum": "Análise de um estudo da Bain & Company aponta falhas no modelo tradicional de CS e propõe gestor de conta central, responsabilização por resultados e agentes de IA, com foco em ROI e na transformação do cliente.",
+      "src": "Operando CS",
+      "date": "2026-11-12",
+      "url": "https://operandocs.substack.com/p/o-novo-formato-do-customer-success"
+    }
+  ]
+}
