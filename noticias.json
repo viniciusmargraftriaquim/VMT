@@ -1,23 +1,7 @@
-{
-  "updated": "2026-11-17",
-  "items": [
-    {
-      "id": "n1",
-      "tag": "IA",
-      "title": "IA economiza tempo no CS, mas isso garante crescimento?",
-      "sum": "A IA já reduz o trabalho manual das equipes de CS, mas o ganho de tempo só vira retenção e expansão quando está ligado a fluxos completos e medido por indicadores de negócio.",
-      "src": "Outreach",
-      "date": "2026-11-09",
-      "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
-    },
-    {
-      "id": "n7",
-      "tag": "Estratégia",
-      "title": "O novo formato do Customer Success moderno",
-      "sum": "Análise de um estudo da Bain & Company aponta falhas no modelo tradicional de CS e propõe gestor de conta central, responsabilização por resultados e agentes de IA, com foco em ROI e na transformação do cliente.",
-      "src": "Operando CS",
-      "date": "2026-11-12",
-      "url": "https://operandocs.substack.com/p/o-novo-formato-do-customer-success"
-    }
-  ]
-}
+{"updated":"2026-11-18","items":[
+{"id":"n1","tag":"Estratégia","title":"Operando CS: o 'renascimento do Customer Success' da Bain é viável no Brasil?","sum":"A newsletter analisa o modelo proposto pela Bain (um dono por conta, especialistas sob demanda e agentes de IA) e defende, para o contexto brasileiro, foco em ROI, transformação do cliente e ganhos reais de produtividade.","src":"Operando CS (Thiago Fagundes)","date":"2026-11-12","url":"https://operandocs.substack.com/p/o-novo-formato-do-customer-success"},
+{"id":"n2","tag":"Tendências","title":"Bain: o renascimento do Customer Success","sum":"Mesmo com o headcount de CS crescendo mais de 50% em seis anos, o NRR de empresas de software de capital aberto caiu. A Bain propõe trocar o modelo de um CSM por conta por um responsável único, com especialistas compartilhados, agentes de IA e incentivos atrelados a adoção e consumo.","src":"Bain & Company","date":"2026-11-09","url":"https://www.bain.com/it/insights/the-rebirth-of-customer-success/"},
+{"id":"n3","tag":"IA","title":"IA economiza tempo do CS, mas gera crescimento?","sum":"Com base no Customer Revenue Leadership Study 2026, o artigo mostra que o NRR está estável desde 2024 e que a maioria das equipes usa IA em tarefas táticas. A recomendação é conectar a IA a fluxos de ponta a ponta e medir adoção, retenção e expansão.","src":"Outreach","date":"2026-11-09","url":"https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"},
+{"id":"n4","tag":"CS Digital","title":"Gainsight é Líder no Gartner Magic Quadrant de plataformas de CS pelo 3º ano","sum":"A Gartner posicionou a Gainsight como Líder no Magic Quadrant 2026 de Customer Success Management Platforms. A empresa liga o resultado ao avanço da IA agêntica em retenção.","src":"Gainsight","date":"2026-10-23","url":"https://www.gainsight.com/press/gainsight-named-a-leader-in-2026-gartner-magic-quadrant-for-customer-success-management-platforms-for-third-consecutive-year/"},
+{"id":"n5","tag":"Retenção","title":"Gainsight Atlas já gerencia mais de US$ 75 milhões em ARR de renovações","sum":"No Pulse Europe, a Gainsight informou que seu serviço nativo em IA para renovações da cauda longa supera US$ 75 mi em ARR, colocou o Agent Studio em beta e antecipou preços baseados em valor para 2027.","src":"Gainsight","date":"2026-10-20","url":"https://www.gainsight.com/press/gainsight-proves-ai-native-services-model-for-retention-as-atlas-manages-over-75m-in-customer-arr/"}
+]}
