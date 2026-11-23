@@ -1,1 +1,41 @@
-{"updated":"2026-11-23","items":[]}
+{
+ "updated": "2026-11-23",
+ "items": [
+  {
+   "id": "n1",
+   "tag": "Estratégia",
+   "title": "Compradores de tecnologia no Brasil priorizam SaaS com retenção comprovada",
+   "sum": "Relatório da Questum com 18 compradores brasileiros (incluindo TOTVS, VTEX e TIVIT) aponta que 17 mudaram suas listas de alvos por causa da IA. Eles preferem empresas ligadas a processos críticos do cliente, com dados proprietários e retenção comprovada.",
+   "src": "Startups",
+   "date": "2026-11-23",
+   "url": "https://startups.com.br/negocios/ma/ia-tira-software-puro-da-mira-de-compradores-diz-questum/"
+  },
+  {
+   "id": "n2",
+   "tag": "Tendências",
+   "title": "Forrester: a IA redefine o Customer Success, mas não a sua missão",
+   "sum": "A análise da Forrester, publicada na Forbes, afirma que a IA muda a organização do pós-venda, mas não o propósito do CS. Destaca a importância de contexto consistente do cliente, foco em resultados e papéis redesenhados.",
+   "src": "Forbes (Forrester)",
+   "date": "2026-11-20",
+   "url": "https://www.forbes.com/sites/forrester/2026/11/20/ai-is-redefining-customer-success-but-not-its-mission/"
+  },
+  {
+   "id": "n3",
+   "tag": "IA",
+   "title": "Gainsight propõe 'Outcome Executive' por cliente: humano para grandes contas e agente de IA para a cauda longa",
+   "sum": "Análise sobre a carta do CEO da Gainsight que prevê um responsável por resultados por cliente e a migração para preço baseado em valor. O texto argumenta que o ganho em retenção ainda não está comprovado por dados de receita retida.",
+   "src": "Gene Dai (blog)",
+   "date": "2026-11-15",
+   "url": "https://digidai.github.io/2026/11/15/gainsight-outcome-executive-agent-customer-success/"
+  },
+  {
+   "id": "n4",
+   "tag": "Retenção",
+   "title": "IA em Customer Success economiza tempo, mas gera crescimento?",
+   "sum": "Com base no estudo 2026 da ChurnZero e 6sense, o artigo mostra NRR estagnado desde 2024 e uma lacuna entre adoção de IA e resultados de negócio. Recomenda medir impacto em adoção, retenção e expansão, não apenas horas economizadas.",
+   "src": "Outreach",
+   "date": "2026-11-09",
+   "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
+  }
+ ]
+}
