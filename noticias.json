@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "items": [
   {
    "id": "n1",
@@ -36,6 +36,15 @@
    "src": "Outreach",
    "date": "2026-11-09",
    "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
+  },
+  {
+   "id": "n5",
+   "tag": "IA",
+   "title": "Estudo da ChurnZero: investimento em IA cresce mais rápido que a capacidade de medir resultados em CS",
+   "sum": "Pesquisa com 580 líderes de CS e receita mostra que 81% veem redução de trabalho manual com IA, mas metade não tem forma consistente de medir o impacto no negócio. Quando o orçamento aperta, 59% cortam pessoas e 27% cortam gastos com IA.",
+   "src": "Demand Gen Report (ChurnZero)",
+   "date": "2026-11-05",
+   "url": "https://www.demandgenreport.com/?p=55104"
   }
  ]
 }
