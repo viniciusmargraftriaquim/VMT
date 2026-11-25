@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "items": [
   {
    "id": "n1",
    "tag": "Estratégia",
    "title": "Compradores de tecnologia no Brasil priorizam SaaS com retenção comprovada",
-   "sum": "Relatório da Questum com 18 compradores brasileiros (incluindo TOTVS, VTEX e TIVIT) aponta que 17 mudaram suas listas de alvos por causa da IA. Eles preferem empresas ligadas a processos críticos do cliente, com dados proprietários e retenção comprovada.",
+   "sum": "Em relatório da Questum com 18 compradores de tecnologia no Brasil, 17 mudaram suas listas de alvos por causa da IA. Base de clientes, retenção e baixo churn passaram a pesar mais que código e crescimento projetado.",
    "src": "Startups",
    "date": "2026-11-23",
    "url": "https://startups.com.br/negocios/ma/ia-tira-software-puro-da-mira-de-compradores-diz-questum/"
@@ -14,37 +14,55 @@
    "id": "n2",
    "tag": "Tendências",
    "title": "Forrester: a IA redefine o Customer Success, mas não a sua missão",
-   "sum": "A análise da Forrester, publicada na Forbes, afirma que a IA muda a organização do pós-venda, mas não o propósito do CS. Destaca a importância de contexto consistente do cliente, foco em resultados e papéis redesenhados.",
+   "sum": "A análise, publicada na Forbes, afirma que a IA muda a organização do pós-venda, mas não a missão do CS. Destaca contexto consistente do cliente, foco em resultados, papéis redesenhados e maior valor do julgamento humano.",
    "src": "Forbes (Forrester)",
    "date": "2026-11-20",
    "url": "https://www.forbes.com/sites/forrester/2026/11/20/ai-is-redefining-customer-success-but-not-its-mission/"
   },
   {
    "id": "n3",
-   "tag": "IA",
-   "title": "Gainsight propõe 'Outcome Executive' por cliente: humano para grandes contas e agente de IA para a cauda longa",
-   "sum": "Análise sobre a carta do CEO da Gainsight que prevê um responsável por resultados por cliente e a migração para preço baseado em valor. O texto argumenta que o ganho em retenção ainda não está comprovado por dados de receita retida.",
-   "src": "Gene Dai (blog)",
-   "date": "2026-11-15",
-   "url": "https://digidai.github.io/2026/11/15/gainsight-outcome-executive-agent-customer-success/"
+   "tag": "CS Digital",
+   "title": "Gainsight anuncia migração para venda de resultados, com um responsável por cliente",
+   "sum": "Em carta, o CEO da Gainsight descreve a passagem da venda de licenças para a venda de resultados. A proposta prevê um 'Outcome Executive' dedicado às maiores contas e um agente de IA para a cauda longa.",
+   "src": "Gainsight",
+   "date": "2026-11-12",
+   "url": "https://www.gainsight.com/blog/the-future-of-saas-and-customer-success-is-outcomes/"
   },
   {
    "id": "n4",
+   "tag": "Estratégia",
+   "title": "Bain propõe novo modelo operacional para Customer Success",
+   "sum": "Segundo a Bain, o NRR mediano de empresas públicas de software caiu de cerca de 115% em 2023 para cerca de 107%, apesar do aumento no número de CSMs. A consultoria propõe um único responsável pela conta, especialistas sob demanda e agentes de IA para todos os clientes.",
+   "src": "Bain & Company",
+   "date": "2026-11-09",
+   "url": "https://www.bain.com/insights/the-rebirth-of-customer-success/"
+  },
+  {
+   "id": "n5",
    "tag": "Retenção",
-   "title": "IA em Customer Success economiza tempo, mas gera crescimento?",
-   "sum": "Com base no estudo 2026 da ChurnZero e 6sense, o artigo mostra NRR estagnado desde 2024 e uma lacuna entre adoção de IA e resultados de negócio. Recomenda medir impacto em adoção, retenção e expansão, não apenas horas economizadas.",
+   "title": "IA economiza tempo em Customer Success, mas gera crescimento?",
+   "sum": "Com base em estudo da ChurnZero e 6sense com 580 líderes, o artigo mostra que 65% das equipes mais maduras em IA têm NRR de ao menos 100%, contra 39% das iniciantes, sem provar causalidade. Também aponta que 63% dos líderes de CS não medem o impacto da IA de forma consistente.",
    "src": "Outreach",
    "date": "2026-11-09",
    "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
   },
   {
-   "id": "n5",
-   "tag": "IA",
-   "title": "Estudo da ChurnZero: investimento em IA cresce mais rápido que a capacidade de medir resultados em CS",
-   "sum": "Pesquisa com 580 líderes de CS e receita mostra que 81% veem redução de trabalho manual com IA, mas metade não tem forma consistente de medir o impacto no negócio. Quando o orçamento aperta, 59% cortam pessoas e 27% cortam gastos com IA.",
-   "src": "Demand Gen Report (ChurnZero)",
+   "id": "n6",
+   "tag": "CS Digital",
+   "title": "Brasileiros aceitam atendimento por IA, mas cobram transparência e continuidade",
+   "sum": "Dados da Twilio mostram que sete em cada dez brasileiros se sentem confortáveis com atendimento por IA. Porém, 71% precisam repetir informações no suporte e 92% querem saber se estão falando com uma IA ou uma pessoa.",
+   "src": "SINDPD (com informações do IT Forum)",
    "date": "2026-11-05",
-   "url": "https://www.demandgenreport.com/?p=55104"
+   "url": "https://sindpd.org.br/2026/11/05/brasileiros-atendimento-por-ia/"
+  },
+  {
+   "id": "n7",
+   "tag": "IA",
+   "title": "Gartner: só 4% das áreas de atendimento alcançaram o ROI esperado com IA",
+   "sum": "Pesquisa com 275 líderes de atendimento e suporte mostra que poucos obtiveram o retorno esperado das iniciativas de IA. Organizações mais avançadas investem quase 1,8 vez mais em bases de dados e conhecimento do que em casos de uso de IA.",
+   "src": "Gartner",
+   "date": "2026-11-04",
+   "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-04-gartner-survey-reveals-just-4-percent-of-customer-service-leaders-have-achieved-the-expected-roi-of-their-ai-initiatives"
   }
  ]
 }
