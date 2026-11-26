@@ -1,17 +1,26 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "items": [
   {
    "id": "n1",
    "tag": "Estratégia",
+   "title": "IA começa a fundir papéis de CS e vendas, aponta análise de estudo da Anthropic",
+   "sum": "A newsletter analisa pesquisa da Anthropic com 66 pessoas de 58 empresas dos EUA (amostra não representativa), em que uma delas uniu prospecção, vendas e Customer Success em um só cargo. Cerca de dois terços relataram contratar menos, principalmente por não repor vagas.",
+   "src": "The CS Café",
+   "date": "2026-11-25",
+   "url": "https://www.thecscafe.com/p/anthropic-ai-study-cs-ae-role-merge"
+  },
+  {
+   "id": "n2",
+   "tag": "Retenção",
    "title": "Compradores de tecnologia no Brasil priorizam SaaS com retenção comprovada",
-   "sum": "Em relatório da Questum com 18 compradores de tecnologia no Brasil, 17 mudaram suas listas de alvos por causa da IA. Base de clientes, retenção e baixo churn passaram a pesar mais que código e crescimento projetado.",
+   "sum": "Em relatório da Questum com 18 compradores de tecnologia no Brasil, 17 mudaram suas listas de alvos por causa da IA. Segundo o estudo, retenção comprovada e clientes fiéis agora pesam mais que o roadmap.",
    "src": "Startups",
    "date": "2026-11-23",
    "url": "https://startups.com.br/negocios/ma/ia-tira-software-puro-da-mira-de-compradores-diz-questum/"
   },
   {
-   "id": "n2",
+   "id": "n3",
    "tag": "Tendências",
    "title": "Forrester: a IA redefine o Customer Success, mas não a sua missão",
    "sum": "A análise, publicada na Forbes, afirma que a IA muda a organização do pós-venda, mas não a missão do CS. Destaca contexto consistente do cliente, foco em resultados, papéis redesenhados e maior valor do julgamento humano.",
@@ -20,49 +29,31 @@
    "url": "https://www.forbes.com/sites/forrester/2026/11/20/ai-is-redefining-customer-success-but-not-its-mission/"
   },
   {
-   "id": "n3",
-   "tag": "CS Digital",
-   "title": "Gainsight anuncia migração para venda de resultados, com um responsável por cliente",
-   "sum": "Em carta, o CEO da Gainsight descreve a passagem da venda de licenças para a venda de resultados. A proposta prevê um 'Outcome Executive' dedicado às maiores contas e um agente de IA para a cauda longa.",
-   "src": "Gainsight",
-   "date": "2026-11-12",
-   "url": "https://www.gainsight.com/blog/the-future-of-saas-and-customer-success-is-outcomes/"
-  },
-  {
    "id": "n4",
-   "tag": "Estratégia",
-   "title": "Bain propõe novo modelo operacional para Customer Success",
-   "sum": "Segundo a Bain, o NRR mediano de empresas públicas de software caiu de cerca de 115% em 2023 para cerca de 107%, apesar do aumento no número de CSMs. A consultoria propõe um único responsável pela conta, especialistas sob demanda e agentes de IA para todos os clientes.",
-   "src": "Bain & Company",
-   "date": "2026-11-09",
-   "url": "https://www.bain.com/insights/the-rebirth-of-customer-success/"
+   "tag": "CS Digital",
+   "title": "CS reativo é um problema de capacidade, defende artigo na Forbes",
+   "sum": "Em artigo de opinião, o CEO de uma fornecedora de IA para CS argumenta que carteiras de 40 a 100 contas dificultam a atuação proativa. Para ele, o gargalo que resta é agir a tempo sobre os primeiros sinais de risco.",
+   "src": "Forbes Technology Council",
+   "date": "2026-11-18",
+   "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/18/reactive-customer-success-was-a-math-problem-not-a-discipline-problem/"
   },
   {
    "id": "n5",
-   "tag": "Retenção",
-   "title": "IA economiza tempo em Customer Success, mas gera crescimento?",
-   "sum": "Com base em estudo da ChurnZero e 6sense com 580 líderes, o artigo mostra que 65% das equipes mais maduras em IA têm NRR de ao menos 100%, contra 39% das iniciantes, sem provar causalidade. Também aponta que 63% dos líderes de CS não medem o impacto da IA de forma consistente.",
-   "src": "Outreach",
-   "date": "2026-11-09",
-   "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
+   "tag": "IA",
+   "title": "Só 4% das áreas de atendimento alcançaram o ROI esperado com IA",
+   "sum": "Segundo pesquisa do Gartner com 275 líderes de atendimento e suporte, noticiada pela TI Inside, poucos atingiram o retorno esperado. As organizações mais avançadas investem cerca de 1,8 vez mais em bases de dados e gestão do conhecimento do que nos casos de uso.",
+   "src": "TI Inside",
+   "date": "2026-11-18",
+   "url": "https://tiinside.com.br/18/11/2026/investimento-em-ia-no-atendimento-cresce-38-mas-so-4-alcancam-retorno-esperado/"
   },
   {
    "id": "n6",
-   "tag": "CS Digital",
-   "title": "Brasileiros aceitam atendimento por IA, mas cobram transparência e continuidade",
-   "sum": "Dados da Twilio mostram que sete em cada dez brasileiros se sentem confortáveis com atendimento por IA. Porém, 71% precisam repetir informações no suporte e 92% querem saber se estão falando com uma IA ou uma pessoa.",
-   "src": "SINDPD (com informações do IT Forum)",
-   "date": "2026-11-05",
-   "url": "https://sindpd.org.br/2026/11/05/brasileiros-atendimento-por-ia/"
-  },
-  {
-   "id": "n7",
-   "tag": "IA",
-   "title": "Gartner: só 4% das áreas de atendimento alcançaram o ROI esperado com IA",
-   "sum": "Pesquisa com 275 líderes de atendimento e suporte mostra que poucos obtiveram o retorno esperado das iniciativas de IA. Organizações mais avançadas investem quase 1,8 vez mais em bases de dados e conhecimento do que em casos de uso de IA.",
-   "src": "Gartner",
-   "date": "2026-11-04",
-   "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-04-gartner-survey-reveals-just-4-percent-of-customer-service-leaders-have-achieved-the-expected-roi-of-their-ai-initiatives"
+   "tag": "Retenção",
+   "title": "IA economiza tempo em Customer Success, mas gera crescimento?",
+   "sum": "Com base em estudo da ChurnZero e 6sense com 580 líderes, o artigo mostra que 65% das equipes com uso estratégico de IA ou guiadas por ela têm NRR de ao menos 100%, contra 39% das que não usam IA, sem provar causalidade. Também aponta que 63% dos líderes de CS não têm um método consistente para medir a IA.",
+   "src": "Outreach",
+   "date": "2026-11-09",
+   "url": "https://www.outreach.ai/resources/blog/ai-customer-success-retention-nrr"
   }
  ]
 }
