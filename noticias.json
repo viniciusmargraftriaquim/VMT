@@ -1,50 +1,59 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
   {
    "id": "n1",
-   "tag": "Tendências",
-   "title": "O que pode tornar 2027 um ano difícil para o SaaS",
-   "sum": "Ensaio da newsletter operando CS lista 10 pressões sobre o SaaS, como a queda da cobrança por usuário e a decisão entre construir ou comprar. O autor cita dados de terceiros, sem detalhar a metodologia, incluindo a Bain sobre a queda do NRR médio de empresas de capital aberto de 115% para 107% em quatro anos.",
-   "src": "operando CS",
+   "tag": "CS Digital",
+   "title": "Agentes de IA mudam a conta do atendimento, aponta Zendesk",
+   "sum": "Segundo o relatório CX Trends 2027, da própria Zendesk, quase 80% dos líderes brasileiros (74% no mundo) esperam que agentes de IA assumam a maior parte do volume de atendimento em dois anos. Já 90% dos brasileiros querem poder falar com uma pessoa quando precisarem.",
+   "src": "Consumidor Moderno",
    "date": "2026-11-26",
-   "url": "https://operandocs.substack.com/p/2027-deve-ser-um-ano-dificil-para"
+   "url": "https://consumidormoderno.com.br/agentes-ia-atendimento-conta-resultado-zendesk/"
   },
   {
    "id": "n2",
    "tag": "Estratégia",
-   "title": "IA começa a fundir papéis de CS e vendas, aponta análise de estudo da Anthropic",
-   "sum": "A newsletter analisa pesquisa qualitativa da Anthropic com 66 pessoas de 58 empresas dos EUA (amostra não representativa), em que uma delas uniu prospecção, vendas e Customer Success em um só cargo. Cerca de dois terços relataram contratar menos.",
-   "src": "The CS Café",
-   "date": "2026-11-25",
-   "url": "https://www.thecscafe.com/p/anthropic-ai-study-cs-ae-role-merge"
+   "title": "IA muda a equação de capacidade em Customer Success",
+   "sum": "A Forrester defende que usar a capacidade liberada pela IA é uma escolha da liderança, e não um motivo automático para cortar equipes. Em pesquisa da consultoria (sem amostra detalhada no texto), 69% concordam que suas organizações já reduziram ou substituíram pessoas com IA.",
+   "src": "Forrester",
+   "date": "2026-11-24",
+   "url": "https://www.forrester.com/blogs/ai-is-changing-the-customer-success-capacity-equation/"
   },
   {
    "id": "n3",
    "tag": "Retenção",
-   "title": "CS com mais responsabilidade por receita: um checklist para renovações",
-   "sum": "Em relato do Customer Success Summit de Toronto, o autor destaca a IA mudando o trabalho de CS e os CSMs assumindo responsabilidade por receita. Ele propõe uma checagem de renovação própria, com quatro perguntas sobre valor, responsável, acompanhamento e evento.",
-   "src": "From Sale to Success",
-   "date": "2026-11-14",
-   "url": "https://fromsaletosuccess.substack.com/p/the-state-and-future-of-customer"
+   "title": "Com dados conectados por IA, o desafio é agir sobre o feedback",
+   "sum": "Em artigo de opinião, a autora defende que as empresas meçam o que fazem com o feedback, e não só como o cliente se sente. Ela propõe um índice próprio que considera ação, comunicação, agilidade e contexto com prioridade estratégica.",
+   "src": "CMSWire",
+   "date": "2026-11-24",
+   "url": "https://www.cmswire.com/customer-experience/the-end-of-plausible-deniability-when-customer-intelligence-demands-accountability/"
   },
   {
    "id": "n4",
-   "tag": "CS Digital",
-   "title": "Como se tornar um CSM potencializado por IA",
-   "sum": "Em artigo de opinião, um CSM propõe usar a IA para atuar em três frentes: estar mais bem informado, ser mais proativo e orientar o trabalho a resultados.",
-   "src": "Colin Foley (Substack)",
-   "date": "2026-11-13",
-   "url": "https://colinfoley.substack.com/p/the-next-evolution-of-customer-success"
+   "tag": "Estratégia",
+   "title": "Pedir um case perto da renovação? Quando esperar",
+   "sum": "A newsletter propõe definir quais contas podem receber pedidos de referência ou case, já que eles podem colidir com a renovação. Na prévia aberta, uma amostra de 1.861 vagas de CS indica que cerca de 1 em 35 inclui advocacy na função; o restante é pago.",
+   "src": "The CS Café",
+   "date": "2026-11-22",
+   "url": "https://www.thecscafe.com/p/customer-reference-ask-timing"
   },
   {
    "id": "n5",
+   "tag": "Tendências",
+   "title": "A IA vai substituir CSMs? Por enquanto, não, avalia fornecedor",
+   "sum": "O blog da Base AI cita pesquisa da Velaris com 394 profissionais de CS: 83% não viram cortes de CSMs por causa da IA e 49% dizem que a função ficou mais estratégica. As duas empresas vendem plataformas de CS, e os dados são autodeclarados.",
+   "src": "Base AI",
+   "date": "2026-11-14",
+   "url": "https://www.base.ai/blog/will-ai-replace-customer-success-managers"
+  },
+  {
+   "id": "n6",
    "tag": "IA",
-   "title": "Só 4% dos líderes de atendimento obtiveram o retorno esperado com IA",
-   "sum": "A análise repercute, a partir de fonte secundária, pesquisa do Gartner com 275 líderes de atendimento ao cliente. As organizações mais avançadas em IA investiram cerca de 1,8 vez mais em dados, processos e pessoas do que na própria IA.",
-   "src": "Voice of the Client",
-   "date": "2026-11-12",
-   "url": "https://daviderinwilson.substack.com/p/gartner-4-percent-customer-service-ai-roi"
+   "title": "Só 4% das áreas de atendimento obtiveram o retorno esperado com IA",
+   "sum": "Pesquisa do Gartner com 275 líderes de atendimento e suporte mostra que poucos alcançaram o ROI esperado. Segundo a consultoria, organizações mais avançadas investem cerca de 1,8 vez mais em bases de dados e conhecimento do que em casos de uso de IA.",
+   "src": "Gartner",
+   "date": "2026-11-04",
+   "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-04-gartner-survey-reveals-just-4-percent-of-customer-service-leaders-have-achieved-the-expected-roi-of-their-ai-initiatives"
   }
  ]
 }
